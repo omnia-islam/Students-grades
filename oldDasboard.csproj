@@ -1,0 +1,36 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+
+    <RootNamespace>StudentGradeManagementSystem</RootNamespace>
+    <AssemblyName>OldDashboardProject</AssemblyName>
+
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="StudentsForm.cs" />
+    <Compile Remove="StudentsForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="StudentsForm.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WinForms.DataVisualization" Version="1.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\source\repos\Grades\Students' Grades\Students' Grades.csproj" />
+    <ProjectReference Include="..\..\..\..\project 312 (2)\project 312\project 312\new courses.csproj" />
+    <ProjectReference Include="..\..\..\..\ReportsForm.zip omnia (1)\new reports.Proj.csproj" />
+  </ItemGroup>
+
+</Project>

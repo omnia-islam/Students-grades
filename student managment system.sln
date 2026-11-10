@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12224.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "..\source\repos\Grades\Grades\Grades.csproj", "{40EDD70F-F8A6-452F-9660-9184D6A583D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students' Grades", "..\source\repos\Grades\Students' Grades\Students' Grades.csproj", "{C4A39401-4C6F-4301-D2C4-16F3B2F93EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "..\source\repos\student-grades-managment-system - edited version\Login.csproj", "{0285AF33-AC3C-8463-C94E-B941060EC1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new reports.Proj", "ReportsForm.zip omnia (1)\new reports.Proj.csproj", "{806152E3-811C-DBB2-D46C-EB5C44CAD15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new courses", "project 312 (2)\project 312\project 312\new courses.csproj", "{40AECE5A-F33B-2209-8044-706E6D89564F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oldDasboard", "dashboard\DashbOARD\StudentGradeManagementSystem\StudentGradeManagementSystem\oldDasboard.csproj", "{30E1D9CE-AE63-4802-7D8B-E7E93B84D2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EDD70F-F8A6-452F-9660-9184D6A583D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EDD70F-F8A6-452F-9660-9184D6A583D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EDD70F-F8A6-452F-9660-9184D6A583D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EDD70F-F8A6-452F-9660-9184D6A583D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A39401-4C6F-4301-D2C4-16F3B2F93EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A39401-4C6F-4301-D2C4-16F3B2F93EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A39401-4C6F-4301-D2C4-16F3B2F93EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A39401-4C6F-4301-D2C4-16F3B2F93EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0285AF33-AC3C-8463-C94E-B941060EC1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0285AF33-AC3C-8463-C94E-B941060EC1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0285AF33-AC3C-8463-C94E-B941060EC1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0285AF33-AC3C-8463-C94E-B941060EC1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806152E3-811C-DBB2-D46C-EB5C44CAD15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806152E3-811C-DBB2-D46C-EB5C44CAD15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806152E3-811C-DBB2-D46C-EB5C44CAD15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806152E3-811C-DBB2-D46C-EB5C44CAD15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AECE5A-F33B-2209-8044-706E6D89564F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AECE5A-F33B-2209-8044-706E6D89564F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AECE5A-F33B-2209-8044-706E6D89564F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AECE5A-F33B-2209-8044-706E6D89564F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E1D9CE-AE63-4802-7D8B-E7E93B84D2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E1D9CE-AE63-4802-7D8B-E7E93B84D2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E1D9CE-AE63-4802-7D8B-E7E93B84D2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E1D9CE-AE63-4802-7D8B-E7E93B84D2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED845D8-6C61-41F4-A4A6-1EBD84E3596B}
+	EndGlobalSection
+EndGlobal
